@@ -1,4 +1,4 @@
-# Coursera_Final_Project
+# Coursera_Git_Final
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
